@@ -1,4 +1,4 @@
 # git_test
-My first GifHub repo!
+My first GitHub repo!
 Hello Odin!
 BYE!
